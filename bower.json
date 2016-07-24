@@ -1,0 +1,22 @@
+{
+    "name" : "dsd-breakpoints",
+    "description" : "Add classes to elements based on their container's width whenever the screen size changes.",
+    "license" : "MIT",
+    "authors" : [
+        "Scott Wespi <scott@darkstar-digital.com"
+    ],
+    "main" : "js/dsdBreakPoints.jquery.js",
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/darkstardigital/dsd-breakpoints.git"
+    },
+    "keywords" : [
+        "break points",
+        "responsive break points",
+        "responsive",
+        "jquery"
+    ],
+    "dependencies" : {
+        "jquery" : ">=1.6"
+    }
+}
